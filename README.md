@@ -2,7 +2,7 @@
 
 A professional, multi-user tracking and management system with role-based access control, definition management, and SDC record tracking, fully localized in Turkish.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cizenel/generated-app-20251004-125352)
 
 ## Table of Contents
 
@@ -125,7 +125,7 @@ This command will build the Vite frontend and deploy the worker script and stati
 
 Alternatively, you can deploy directly from your GitHub repository.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cizenel/generated-app-20251004-125352)
 
 ## Contributing
 
